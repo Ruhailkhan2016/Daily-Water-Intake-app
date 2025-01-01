@@ -58,7 +58,7 @@ Are you drinking enough water every day? **Daily Water Intake Tracker** is here 
 
 ## **About the Developer**
 
-This app is proudly developed by **[Your Name]**, ensuring a smooth and user-friendly experience to help you achieve your health goals.
+This app is proudly developed by **Ruhail Khan**, ensuring a smooth and user-friendly experience to help you achieve your health goals.
 
 ---
 
